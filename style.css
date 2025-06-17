@@ -1,0 +1,25 @@
+.index-body {
+    background-image: url("/images/home_image.png");
+    padding: 3%;
+}
+
+.heading {
+    color: lavender;
+}
+
+.navbar {
+    text-align: center;
+    padding: 1%;
+    background-color:rgba(230, 230, 250, 1);
+}
+
+.link-to-background-image {
+    text-align: center;
+    padding: 1%;
+    background-color:rgba(230, 230, 250, 1);
+}
+
+.text-block {
+    padding: 1%;
+    background-color:rgba(230, 230, 250, 0.75);
+}
