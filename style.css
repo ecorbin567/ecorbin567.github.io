@@ -98,3 +98,22 @@ img {
     margin-left:1%;
     margin-right:1%;
 }
+
+@media (max-width: 600px) {
+    .flex-container {
+        display: flex;
+        gap: 1%;
+        flex-flow: column wrap;
+        width: 100%;
+    }
+    .left-column {
+        position: relative;
+        width: 100%;
+    }
+
+    .right-column {
+        position: relative;
+        padding-left: 0%;
+        width: 100%;
+    }
+}
