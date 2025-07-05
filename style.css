@@ -77,6 +77,10 @@ body {
     text-decoration: none;
 }
 
+.buttons {
+    image-rendering: pixelated;
+}
+
 .text-block {
     color: black;
     padding: 1%;
